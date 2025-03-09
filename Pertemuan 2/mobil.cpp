@@ -1,9 +1,9 @@
 /**
  * File      : mobil.cpp
  * Deskripsi : Program mobil 2D yang memanfaatkan object2 primitif,
- 			   transformasi (translasi dan rotasi), serta penggunaan
+ 	       transformasi (translasi dan rotasi), serta penggunaan
                stack.
- * Object	 : Tesla Cybertruck
+ * Object    : Tesla Cybertruck
  * Tanggal   : 3 Maret 2025
  * NIM/Nama  : 24060123120022/Akmal Fauzan Azima
  */
