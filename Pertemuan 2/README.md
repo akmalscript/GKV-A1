@@ -3,7 +3,7 @@
 ## 📌 Description  
 This project is a **2D Tesla Cybertruck simulation** built using **OpenGL (GLUT)**.  
 
-![Cybertruck Render](gambar%20mobil.png)
+![Cybertruck Render](mobil.png)
 
 It demonstrates **basic transformations** like:
 - 🏗 **Primitive Shapes** (Polygons, Circles, Rectangles)  
