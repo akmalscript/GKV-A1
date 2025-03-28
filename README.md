@@ -46,3 +46,15 @@ case GLUT_KEY_RIGHT : deltaAngle = 0.01f;break;
 case GLUT_KEY_LEFT : deltaAngle = -0.003f;break;
 case GLUT_KEY_RIGHT : deltaAngle = 0.003f;break;
 ```
+
+## 📌 Tugas Praktikum 5  
+✅ [Click here](https://github.com/akmalscript/GKV-A1/tree/main/Tugas%20Praktikum%205%20-%20Kelompok%201) to access the files
+
+![MainObject Render](/Tugas%20Praktikum%205%20-%20Kelompok%201/gambar%20objek%20utama.jpeg)    
+
+Sebuah kubus yang elegan & ikonik ✨
+
+### 🎨 Desain Objek Utama  
+- **Warna Unik** 🟣 – Kombinasi warna solid yang menarik perhatian.  
+- **Tepi yang Jelas** 📏 – Garis luar memperkuat bentuknya, memberi kesan tegas dan berstruktur.  
+- **Proporsi Sempurna** 📐 – Setiap sisi memiliki ukuran yang presisi, mencerminkan keindahan geometri.  
