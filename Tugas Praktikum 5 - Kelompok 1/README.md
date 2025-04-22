@@ -5,7 +5,7 @@
   3) Brilianita Eva Syafitri (24060123130051)
   4) Cacania Pasu Nalaung Siregar (24060123120033)
   
-![MainObject Render](/[screenshot]%20objek%20utama.png)
+![MainObject Render](/Tugas%20Praktikum%205%20-%20Kelompok%201/[screenshot]%20objek%20utama.png)
 
 Sebuah mobil yang sederhana & stylish ✨
 
