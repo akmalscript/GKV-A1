@@ -50,11 +50,11 @@ case GLUT_KEY_RIGHT : deltaAngle = 0.003f;break;
 ## 📌 Tugas Praktikum 5 - Kelompok 1  
 ✅ [Click here](https://github.com/akmalscript/GKV-A1/tree/main/Tugas%20Praktikum%205%20-%20Kelompok%201) to access the files
 
-![MainObject Render](/Tugas%20Praktikum%205%20-%20Kelompok%201/gambar%20objek%20utama.jpeg)    
+![MainObject Render](/Tugas%20Praktikum%205%20-%20Kelompok%201/[screenshot]%20objek%20utama.png)    
 
-Sebuah kubus yang elegan & ikonik ✨
+Sebuah mobil yang sederhana & stylish ✨
 
-### 🎨 Desain Objek Utama  
-- **Warna Unik** 🟣 – Kombinasi warna solid yang menarik perhatian.  
-- **Tepi yang Jelas** 📏 – Garis luar memperkuat bentuknya, memberi kesan tegas dan berstruktur.  
-- **Proporsi Sempurna** 📐 – Setiap sisi memiliki ukuran yang presisi, mencerminkan keindahan geometri.  
+### 🎨 Desain Mobil   
+- **Warna Elegan** 🟣 – Kombinasi warna ungu solid yang menarik perhatian.
+- **Roda Dinamis** 🔄 – Roda berbentuk bulat dengan detail hitam dan putih menambah kesan realistis.
+- **Jendela dan Lampu Realistis** 🌟 – Detail seperti jendela putih dan lampu depan memberikan sentuhan hidup pada desain.
